@@ -1,5 +1,4 @@
--- 1. Set up project: npm install hoặc yarn install
--- 2. Start project: npm start hoặc yarn start
+
 
 # ModelingSportStore
 # Đồ án training NodeApi
